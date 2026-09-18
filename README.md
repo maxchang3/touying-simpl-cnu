@@ -67,7 +67,7 @@ The compiled presentation will be available at `./examples/main.pdf`.
 
 This package is maintained using:
 
-- [Typship](https://crates.io/crates/typship) - for publishing to the Typst package registry.
+- [Typush](https://github.com/Vncntvx/typush) - for publishing to the Typst package registry.
 - [Typst Upgrade](https://github.com/Coekjan/typst-upgrade) - for upgrading Typst packages.
 
 ## License
