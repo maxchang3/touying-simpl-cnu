@@ -1,10 +1,10 @@
 <p align="center">
-    <img width="50%" src="./thumbnail.png"/>
+    <img width="50%" src="./thumbnail.png" alt="Preview of the Touying slide theme for Capital Normal University"/>
 </p>
 
 # Touying Slide Theme for Capital Normal University
-[![Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftypst.app%2Funiverse%2Fpackage%2Ftouying-simpl-cnu&query=%2Fhtml%2Fbody%2Fdiv%2Fmain%2Fdiv%5B2%5D%2Faside%2Fsection%5B2%5D%2Fdl%2Fdd%5B3%5D&logo=typst&label=Universe&color=%23239DAE)](https://typst.app/universe/package/touying-simpl-cnu)
-[![License](https://img.shields.io/github/license/maxchang3/touying-simpl-cnu?style=flat-square)](LICENSE)
+[![Typst Universe version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ftypst.app%2Funiverse%2Fpackage%2Ftouying-simpl-cnu&query=%2Fhtml%2Fbody%2Fdiv%2Fmain%2Fdiv%5B2%5D%2Faside%2Fsection%5B2%5D%2Fdl%2Fdd%5B3%5D&logo=typst&label=Universe&color=%23239DAE)](https://typst.app/universe/package/touying-simpl-cnu)
+[![MIT license](https://img.shields.io/github/license/maxchang3/touying-simpl-cnu?style=flat-square)](LICENSE)
 
 
 A slide theme for Capital Normal University based on the [Touying](https://github.com/touying-typ/touying) presentation framework. 
